@@ -98,7 +98,16 @@ a:hover {
  * Code *************************************************************
  */
 
-blockquote, code, div.code, kbd, pre.bbcodeblock, pre, td.code, textarea {
+blockquote,
+code,
+div.code, div.codeblock, div.embed-code-dl,
+kbd,
+pre.bbcodeblock, pre.code,
+td.code,
+textarea,
+tt.codetext
+
+{
     font-family: monospace ! important ;
     color:#79B753 ! important ;
     background:#1f1f1f ! important ;
