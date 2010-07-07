@@ -98,6 +98,10 @@ a:hover {
  * Code *************************************************************
  */
 
+/* Note: "font" is for perlmonks.org
+ * You may want to remove it if you don't frequent that site
+ */
+
 blockquote,
 code,
 div.code, div.codeblock, div.embed-code-dl,
