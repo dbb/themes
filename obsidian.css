@@ -105,7 +105,8 @@ kbd,
 pre.bbcodeblock, pre.code,
 td.code,
 textarea,
-tt.codetext
+tt.codetext,
+font
 
 {
     font-family: monospace ! important ;
