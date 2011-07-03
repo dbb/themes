@@ -98,7 +98,25 @@ a:hover {
  * Code *************************************************************
  */
 
+<<<<<<< HEAD
 blockquote, code, div.code, kbd, pre.bbcodeblock, pre, td.code, textarea {
+=======
+/* Note: "font" is for perlmonks.org
+ * You may want to remove it if you don't frequent that site
+ */
+
+blockquote,
+code,
+div.code, div.codeblock, div.embed-code-dl,
+kbd,
+pre.bbcodeblock, pre.code,
+td.code,
+textarea,
+tt.codetext,
+font
+
+{
+>>>>>>> df93ee030cd11e9ccc11b14e7e3a2eec91e12e0c
     font-family: monospace ! important ;
     color:#79B753 ! important ;
     background:#1f1f1f ! important ;
@@ -116,4 +134,8 @@ div.post {
 
 .tborder {
 	border: 1px solid #4f4d4d ! important;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> df93ee030cd11e9ccc11b14e7e3a2eec91e12e0c
