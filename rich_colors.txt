@@ -1,0 +1,35 @@
+! vim: set ft=xdefaults : 
+! rich colors for your terminal
+! https://github.com/dbb
+
+*foreground:   #d4d4d4
+!  black
+*color0:		#000000
+*color8:		#202020
+!  red: sangria, lava
+*color1:		#92000a
+*color9:		#c80815
+!  green: india green, neon green
+*color2:		#138808
+*color10:		#39ff14
+!  yellow: dark goldenrod, gamboge
+*color3:		#b8860b
+*color11:		#ef9b0f
+!  blue: egyptian blue, palatinate blue
+*color4:		#1034a6
+*color12:		#273be2
+!  magenta: regalia, amethyst
+*color5:		#533d80
+*color13:		#9966cc
+!  cyan: cerulean, electric blue
+*color6:		#007ba7
+*color14:		#7df9ff
+!  white: titanium, white
+*color7:		#e5e4e2
+*color15:		#D4D2CF
+
+! intl orange
+*colorBD:		#ff4f00
+! azure
+*colorUL:		#007fff
+
