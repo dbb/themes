@@ -1,29 +1,30 @@
 ! Obsidian Coast colors for your Xresources
 ! https://github.com/dbb/themes
 
+! vim: set ft=xcolors :
 
 ! black
-URxvt*color0:    #0A0A0A
-URxvt*color8:    #201F1F
+*color0:    #0A0A0A
+*color8:    #201F1F
 !  red
-URxvt*color1:    #A22618
-URxvt*color9:    #E84C24
+*color1:    #A22618
+*color9:    #E84C24
 !  green
-URxvt*color2:    #539927
-URxvt*color10:    #70B751
+*color2:    #539927
+*color10:    #70B751
 !  yellow
-URxvt*color3:    #8E6514
-URxvt*color11:    #B4A05A
+*color3:    #8E6514
+*color11:    #B4A05A
 !  blue
-URxvt*color4:    #113050
-URxvt*color12:    #275fA0
+*color4:    #113050
+*color12:    #275fA0
 !  magenta
-URxvt*color5:    #543973
-URxvt*color13:    #84699B
+*color5:    #543973
+*color13:    #84699B
 !  cyan
-URxvt*color6:    #4D92B4
-URxvt*color14:    #8BCAEA
+*color6:    #4D92B4
+*color14:    #8BCAEA
 !white
-URxvt*color7:    #A3A29F
-URxvt*color15:    #D4D2CF
+*color7:    #A3A29F
+*color15:    #D4D2CF
 
