@@ -1,0 +1,94 @@
+/* regular background */
+html, body, div#mw-head, div#bodyContent, .firstHeading, #firstHeading, body.vector-animateLayout div#content, div.mw-panel, div#mw-panel, #preferences  {
+    background: #3D342F !important;
+}
+ 
+/* regular foreground color */
+p, div#footer, #preferences fieldset {
+    color: #050505 !important;
+} 
+ 
+/* higher contrast */
+dd, div.thumbcaption, div.thumbinner, div.catlinks, .mw-content-ltr dd, .mw-content-rtl .mw-content-ltr dd, table.ambox, .infobox, table.toc, table {
+    background: #52463F !important;
+    color: #000000 !important;
+    border: 1px solid #000000 !important;
+}
+ 
+/* regular font */
+p, li, ul {
+    font-family: Liberation Serif, Georgia, serif !important;
+    font-size: 16px;
+    max-width: 500px;
+}
+ 
+p, ul {
+    margin-left: 5em;
+}
+ 
+.editOptions, .editCheckboxes, #editpage-copywarn {
+    background: #332D29 !important;
+}
+ 
+h1, h2, h3, h4, h5, h6 {
+    border-bottom: 1px solid #050505;
+    font-family: Georgia !important;
+    color #1A1614 !important;
+}
+ 
+a {
+    color: #e0905a !important;
+}
+ 
+a:visited {
+    color: #AE86BF !important;
+}
+ 
+div.mw-geshi div, div.mw-geshi div pre, span.mw-geshi, pre.source-css, pre.source-javascript, pre.source-lua, textarea, input#wpSummary, #inputsearchInput, div#simpleSearch {
+    color: #d0d0d0;
+    font-family: DejaVu Sans Mono, Consolas, Andale Mono, monospace !important;
+    background: #141414 !important;
+}
+ 
+.css.source-css .kw1 {
+    color: #d0d0d0 !important;
+    font-weight: bold;
+}
+ 
+pre, .mw-code {
+    color: #d0d0d0 !important;
+}
+ 
+div.vectorTabs ul {
+    background #000000 !important;
+}
+ 
+dd, .mw-content-ltr dd, .mw-content-rtl .mw-content-ltr dd {
+    border-style: dotted;
+    border-width: 1px;
+    margin-left: 5em;
+    margin-right: 0;
+    font-family: Georgia !important;
+    font-size: 16px !important;
+    max-width: 500px;
+}
+ 
+div.content ul {
+    list-style-type: square !important;
+    list-style-image: fakeimage.jpg !important;
+}
+ 
+div.content {
+    border: 1px solid #000000 !important;
+}
+ 
+div.thumbinner, img.thumbimage {
+    border: 1px solid #000000 !important;
+}
+ 
+div.vectorTabs li {
+    background: #332B27 !important;
+    background-image: none !important;
+    border: 1px solid #000000 !important;
+    list-style-image: none !important;
+}
