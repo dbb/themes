@@ -7,7 +7,7 @@ html, body  {
     background-image: url("http://i.imgur.com/8i6ATGr.png") !important;
     color:      #cccccc !important;
     font-family: DejaVu Sans, sans !important;
-    max-width: 800px !important;
+    /* max-width: 800px !important; */
     margin: 0px auto !important;
     padding: 0;
 }
@@ -19,7 +19,7 @@ a:visited {
 }
 
 div {
-    max-width: 800px !important;
+    /* max-width: 800px !important; */
     border-color: #101010 !important;
 }
 div#qrHeader.drag.postblock {
@@ -84,7 +84,7 @@ span.postertrip {
 span.quote {
     background: #52992e !important;
     color: #202020 !important;
-    max-width: 600px !important;
+    /* max-width: 600px !important; */
     margin: 0px auto !important;
     white-space: pre-wrap !important;
 }
